@@ -1,0 +1,41 @@
+body {
+    background: cyan;
+}
+
+.container{ font-family: Times New Roman;
+background-color: darkslategray;
+    
+}
+#h1{
+    background: chocolate;
+    font-family:times New Roman;
+}
+#nav{
+    background: cadetblue;
+}
+.button_1{
+    color: red;
+}
+.dark{
+    background: darksalmon;
+}
+#for{
+    color: goldenrod;
+    background-color: seagreen;
+}
+#in{
+    color: red;
+    background: red;
+}
+#show{ background: brown;
+    
+}
+#home{
+    right: 200px;
+}
+#logo{
+    border: 3px solid black;
+    width: 150px; height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
